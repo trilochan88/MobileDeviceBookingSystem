@@ -1,0 +1,65 @@
+[
+  {
+    "modelName": "2x Samsung Galaxy S8",
+    "technology": "GSM / HSPA / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900",
+    "bands3g": "HSDPA 850 / 900 / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)"
+  },
+  {
+    "modelName": "Samsung Galaxy S9",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Motorola Nexus 6",
+    "technology": "GSM / CDMA / HSPA",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Oneplus 9",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Apple iPhone 13",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Apple iPhone 12",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Apple iPhone 11",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "iPhone X",
+    "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  },
+  {
+    "modelName": "Nokia 3310",
+    "technology": "GSM",
+    "bands2g": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "bands3g": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "bands4g": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700)"
+  }
+]
